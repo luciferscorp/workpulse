@@ -1,0 +1,69 @@
+
+.EmpPopup-openBtn{
+    position: absolute;
+    width: 120px;
+
+    transform: translate(1100%,200%) ;
+    text-align: center;
+    background-color: #4870c5;
+    border-radius: 5px;
+    
+    text-decoration: none;
+    padding: 8px 0;
+    transition: all 0.2s;
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+}
+
+
+.EmpPopup-openBtn:hover{
+    background-color: rgba(79, 14, 14, 0.41);
+    transition: 0.3s;
+}
+
+@media only screen and (max-width: 1200px){
+
+    .EmpPopup-openBtn{
+        position: absolute;
+        width: 100px;
+        height: 32px;
+        transform: translate(800%,200%) ;
+        text-align: center;
+        background-color: #4870c5;
+        font-size: 15px;
+        color: rgb(255, 255, 255);
+        text-decoration: none;
+        padding: 8px 0;
+        transition: all 0.2s;
+  
+        
+    }
+
+}
+
+@media only screen and (max-width: 768px) {
+    
+
+
+    .EmpPopup-openBtn{
+        position: absolute;
+        width: 100px;
+        height: 32px;
+        transform: translate(400%,250%) ;
+        text-align: center;
+        background-color: #4870c5;
+        font-size: 15px;
+        color: rgb(255, 255, 255);
+        text-decoration: none;
+        padding: 8px 0;
+        transition: all 0.2s;
+
+        
+    }
+    .EmpPopup-openBtn:hover{
+        background-color: rgba(79, 14, 14, 0.41);
+        transition: 0.3s;
+    }
+    
+
+  }

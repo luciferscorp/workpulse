@@ -1,0 +1,32 @@
+body {
+    background-color:#abc8d8;
+}
+
+/* template colors
+
+2F2F32
+2FBC58
+BFBEBF
+3A9ADF
+05BBC7D
+
+*/
+
+
+/* .center-contant{
+    position: absolute;
+    margin: 250px 0 0 350px;
+    font-size: 30px;
+    color: #2d434f;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+@media only screen and (max-width:768px) {
+    .center-contant{
+        position: absolute;
+        margin: 250px 0 0 150px;
+        font-size: 15px;
+        color: #2d434f;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        transition: all 0.2s;
+    }
+} */
