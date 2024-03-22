@@ -1,0 +1,113 @@
+.reg-dropdown {
+  /* padding: 10px 71.5px; */
+  padding: 10px 102px 10px 45px;
+  border-radius: 8px;
+  border-width: 2px;
+  font-size: 19;
+  color:#383838;
+  border-style: solid;
+  background-color: #eeeeee;
+  border-color: #838383ca;
+  box-shadow: #403d6c48;
+  margin-bottom: 10px;
+  
+ 
+}
+
+.reg-dropdown:focus {
+  border-color: #d8d8d1;
+  box-shadow: 0 0 4px #d8d8d1;
+  outline: none;
+}
+
+.register-dropdown {
+  padding: 10px 130px ;
+  border-radius: 8px;
+  border-width: 2px;
+  font-size: 19;
+  color:#383838;
+  border-style: solid;
+  background-color: #eeeeee;
+  border-color: #838383ca;
+  box-shadow: #403d6c48;
+  margin-bottom: 10px;
+  
+ 
+}
+
+.register-dropdown:focus {
+  border-color: #d8d8d1;
+  box-shadow: 0 0 4px #d8d8d1;
+  outline: none;
+}
+/* .top-option{
+  font-size: 70px;
+  margin-left: 200px;
+}
+
+.dropdown-title{
+  margin-left: 200px;
+
+
+}
+
+.option-list{
+  margin-left: 200px;
+} */
+
+.project-companies-dropdown{
+  padding: 10px 112px ;
+  border-radius: 8px;
+  border-width: 2px;
+  font-size: 19;
+  color:#383838;
+  border-style: solid;
+  background-color: #eeeeee;
+  border-color: #838383ca;
+  box-shadow: #403d6c48;
+  margin-bottom: 10px;
+}
+
+.assignlead-dropdown{
+  padding: 10px ;
+  width: 300px;
+  border-radius: 8px;
+  border-width: 2px;
+  font-size: 19;
+  color:#383838;
+  border-style: solid;
+  background-color: #eeeeee;
+  border-color: #838383ca;
+  box-shadow: #403d6c48;
+  margin-top: 4x;
+  margin-bottom: 10px;
+}
+
+.assign-task-dropdown{
+  padding: 10px ;
+  width: 270px;
+  border-radius: 8px;
+  border-width: 2px;
+  font-size: 19;
+  color:#383838;
+  border-style: solid;
+  background-color: #eeeeee;
+  border-color: #838383ca;
+  box-shadow: #403d6c48;
+  margin-bottom: 10px;
+}
+
+
+.assign-employee-dropdown{
+  padding: 10px  ;
+  width: 270px;
+  border-radius: 8px;
+  border-width: 2px;
+  font-size: 19;
+  color:#383838;
+  border-style: solid;
+  background-color: #eeeeee;
+  border-color: #838383ca;
+  box-shadow: #403d6c48;
+  margin-bottom: 10px;
+}

@@ -1,0 +1,107 @@
+.regcontainer {
+    background: #2F2F32;
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border-radius: 14px;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    padding: 1% 2% 2%;
+    margin-top: 157px;
+    z-index: 1;
+}
+
+.reg-title {
+    font-size: 22px;
+    color: #dedede;
+    font-family: sans-serif;
+}
+
+.container div.error {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.spanEnd {
+    color: rgb(255, 60, 60);
+    margin-bottom: 10px;
+}
+
+.CompPopup-close-button {
+    position: absolute;
+    margin: -75px 0 0 110px;
+    /* margin-top: -200px; */
+    /* margin-left: 130px; */
+    background-color: transparent;
+    font-size: 35px;
+    color: #ffffff;
+    border-radius: 100%;
+    /* width: 40px; */
+    /* height: 40px; */
+    font-weight: bold;
+    /* border: none; */
+    /* outline: none; */
+    cursor: pointer;
+}
+
+.CompPopup-close-button:hover {
+    color: red;
+    transition: 0.2s;
+}
+
+.AddCompany-Button {
+    margin-top: 20px;
+}
+
+
+
+
+/* 
+.container {
+    background: linear-gradient(135deg, rgba(42, 41, 70, 0.19), rgba(136, 118, 118, 0.185));
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border-radius: 14px;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    padding: 1% 2% 2%;
+    margin-top: 700px;
+}
+
+h3{
+    font-size: 22px;
+    color: rgb(239, 192, 192);
+    font-family: sans-serif;
+} */
+
+
+.AssignLeadPopup-close-button {
+    position: absolute;
+    margin: -75px 0 0 135px;
+    /* margin-top: -200px; */
+    /* margin-left: 130px; */
+    background-color: transparent;
+    font-size: 35px;
+    color: #ffffff;
+    border-radius: 100%;
+    /* width: 40px; */
+    /* height: 40px; */
+    font-weight: bold;
+    /* border: none; */
+    /* outline: none; */
+    cursor: pointer;
+}
+
+.AssignLeadPopup-close-button:hover {
+    color: red;
+    transition: 0.2s;
+}
