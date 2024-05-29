@@ -22,20 +22,23 @@ Manage Users:
 
 ![image](https://github.com/luciferscorp/workpulse/assets/146311407/2b16090d-68cb-4b85-9d51-a0003837408b)
 
-
-
-![image](https://github.com/luciferscorp/workpulse/assets/146311407/e87965a7-87c7-4059-a2d2-c515b20a5d9a)
-
-
-![image](https://github.com/luciferscorp/workpulse/assets/146311407/d9adb623-e4c0-4995-9cba-ce0e89c4940c)
-
-
+Create new user:
 
 ![image](https://github.com/luciferscorp/workpulse/assets/146311407/60ead9c8-4187-4cbd-a86b-2ee5584903cd)
 
+Task Report Page:
+
+![image](https://github.com/luciferscorp/workpulse/assets/146311407/d9adb623-e4c0-4995-9cba-ce0e89c4940c)
+
+Projects and it's details:
+
+![Screenshot 2024-05-29 135125](https://github.com/luciferscorp/workpulse/assets/146311407/f9db9fd4-20d7-42f2-8e53-bff350a29603)
+
+Project Leader's Dashboard
 
 ![image](https://github.com/luciferscorp/workpulse/assets/146311407/78039bcf-a2df-47d3-b071-fe0814dc5a19)
 
+Task Management:
 
 ![Screenshot 2024-05-29 134317](https://github.com/luciferscorp/workpulse/assets/146311407/c2ec92a3-0bdf-4b49-89ab-361dafe55a27)
 
