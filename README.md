@@ -1,4 +1,4 @@
-# workpulse
+# WorkPulse
 Task Management with Time Tracking and Project Management System in Full Stack Development
 
 This web application is developed to manage tasks and report the details to it's appropriate handlers.
