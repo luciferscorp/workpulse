@@ -16,7 +16,7 @@ Technologies used,
 4. SQLite3
 5. Node
 
-#Installation:#
+# Installation:
   1. Install node js on your operating system.
   2. Do ```$ npm i ``` on both main folder and ./server folder.
   3. Start with ```$ npm start ``` on main folder
