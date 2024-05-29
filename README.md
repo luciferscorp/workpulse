@@ -6,14 +6,19 @@ This web application is developed to manage tasks and report the details to it's
 
 
 Login Page: 
+
 ![image](https://github.com/luciferscorp/workpulse/assets/146311407/c891dbda-2e20-4410-bb8e-872fea9dcc04)
 
 
+Admin Dashboard:
 
 ![image](https://github.com/luciferscorp/workpulse/assets/146311407/319e4aae-e503-455a-9bf2-f9d4b4f62270)
 
+User's Profile:
+
 ![image](https://github.com/luciferscorp/workpulse/assets/146311407/2124b28f-37b1-4cb3-92c7-a236f7af0b67)
 
+Manage Users:
 
 ![image](https://github.com/luciferscorp/workpulse/assets/146311407/2b16090d-68cb-4b85-9d51-a0003837408b)
 
