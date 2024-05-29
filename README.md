@@ -3,7 +3,18 @@ Task Management with Time Tracking and Project Management System in Full Stack D
 
 This web application is developed to manage tasks and report the details to it's appropriate handlers.
 
+There are four roles in this this webb app.
+1. Admin
+2. Project Manager
+3. Project Leader
+4. Member
 
+Technologies used,
+1. ReactJS
+2. Bootstrap
+3. ExpressJS
+4. SQLite3
+5. Node
 
 Login Page: 
 
