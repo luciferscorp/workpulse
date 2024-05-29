@@ -18,7 +18,7 @@ Technologies used,
 
 #Installation:#
   1. Install node js on your operating system.
-  2. Do ```$ npm i ``` on the main folder and ./server folder.
+  2. Do ```$ npm i ``` on both main folder and ./server folder.
   3. Start with ```$ npm start ``` on main folder
   4. Start the server with ``` $ npm run devStart ``` on ./server folder
   5. Visit http://localhost:3000
