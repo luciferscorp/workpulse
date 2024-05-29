@@ -16,6 +16,11 @@ Technologies used,
 4. SQLite3
 5. Node
 
+Diagram:
+
+![image](https://github.com/luciferscorp/workpulse/assets/146311407/84ca669d-20f8-4a61-90cb-d84590ebd545)
+
+
 # Installation:
   1. Install node js on your operating system.
   2. Do ```$ npm i ``` on both main folder and ./server folder.
