@@ -1,7 +1,11 @@
 # workpulse
 Task Management with Time Tracking and Project Management System in Full Stack Development
 
+This web application is developed to manage tasks and report the details to it's appropriate handlers.
 
+
+
+Login Page: 
 ![image](https://github.com/luciferscorp/workpulse/assets/146311407/c891dbda-2e20-4410-bb8e-872fea9dcc04)
 
 
