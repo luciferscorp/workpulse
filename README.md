@@ -23,6 +23,8 @@ Technologies used,
   4. Start the server with ``` $ npm run devStart ``` on ./server folder
   5. Visit http://localhost:3000
 
+# Screenshots
+
 Login Page: 
 
 ![image](https://github.com/luciferscorp/workpulse/assets/146311407/c891dbda-2e20-4410-bb8e-872fea9dcc04)
